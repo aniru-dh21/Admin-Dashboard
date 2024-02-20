@@ -1,3 +1,7 @@
+# Admin Dashboard with React
+
+The final admin dashboard will allow you to display and search through authenticated users within a users table and show important data using interactive bar and line charts.
+
 #### ⚡️ Requirements
 
 - Install Node.js as [nodejs.org](https://nodejs.org)
